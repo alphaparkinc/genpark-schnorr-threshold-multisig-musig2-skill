@@ -1,0 +1,14 @@
+{
+  "name": "genpark-schnorr-threshold-multisig-musig2-skill",
+  "version": "1.0.0",
+  "description": "MuSig2 multi-signature and threshold Schnorr aggregation protocol for compact collective authorization proofs.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "musig2",
+    "schnorr-signatures",
+    "multisig",
+    "threshold-signatures",
+    "cryptography"
+  ]
+}
